@@ -1,0 +1,7 @@
+Redstone texture palette colours
+
+#970303
+#FF0000
+#8F0303
+#AA0404
+#B80505
