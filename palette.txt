@@ -5,3 +5,13 @@ Redstone texture palette colours
 #8F0303
 #AA0404
 #B80505
+
+Item palette
+
+#2D0000  (outline)
+#720000  (main colour, light side)
+#FF0000  (specular highlights/sparkles)
+#540000  (dark flakes, light side)
+#490000  (main colour, shadow side)
+#360000  (dark flakes, shadow side)
+
